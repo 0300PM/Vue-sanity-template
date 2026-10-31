@@ -1,0 +1,11 @@
+node_modules
+studio/node_modules
+dist
+studio/dist
+.env
+.env.local
+.env.*.local
+studio/.env
+studio/.env.local
+studio/.env.*.local
+*.tsbuildinfo
